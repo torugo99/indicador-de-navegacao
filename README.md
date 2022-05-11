@@ -1,6 +1,6 @@
 # 💻 | Estudo: Indicador de navegação.
 
-### Estudo de um Indicadord e navegação.
+### Estudo de um Indicador de navegação.
 
 - Utilizando somente HTML, CSS e javaScript.
 
